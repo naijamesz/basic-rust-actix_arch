@@ -1,1 +1,1 @@
-# First time used actix to create simple REST API by RUST
+# First time used actix to create a simple HTTP server by RUST
