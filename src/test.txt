@@ -1,0 +1,7 @@
+// pseudo code show for get conceptually structure
+
+httpserver { // get, post, put, delete. statuscodes 400, 500.
+    app_server {
+        
+    }
+}
